@@ -1,6 +1,7 @@
 Blood is Delicious
 
-By: Vlad Dracula
+By: Vlad Dracula, WJohn
+Affiliations: Transylvania and Belmont
 
 Introduction: Vampires like blood [1. Dracula, 2. Belmont]
 
